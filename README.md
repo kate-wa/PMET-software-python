@@ -11,7 +11,7 @@ Within each promoter, fimo assigns probability scores to all potential matches. 
 
 Finally the top n promoters for each motif are extracted based on the best binomial scores.
 
-![index concept](figs/Index_concept.png) 
+![index concept](figs/index_concept.png) 
 
 The following parameters need to be specified
 - promoter length
